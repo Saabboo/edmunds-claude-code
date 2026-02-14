@@ -1,10 +1,10 @@
 {
-  "name": "edmunds-claude-code",
+  "name": "edmunds-claude-code-saabboo",
   "version": "1.0.0",
   "description": "Edmund's personal Claude Code setup with 14 productivity commands and 11 specialized AI agents for modern web development",
   "author": {
     "name": "Edmund",
-    "url": "https://github.com/edmund-io"
+    "url": "https://github.com/Saabboo/edmunds-claude-code.git"
   },
   "license": "MIT",
   "commands": "./.claude/commands/",
